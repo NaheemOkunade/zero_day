@@ -1,1 +1,1 @@
-Vagrant setup and Task on how to use it
+Vagrant set up and Task

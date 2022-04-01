@@ -1,1 +1,1 @@
-Vagrant set up and Task
+Vagrant setup and Task
